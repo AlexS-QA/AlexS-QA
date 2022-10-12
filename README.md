@@ -1,15 +1,26 @@
 ![Header](https://github.com/AlexS-QA/AlexS-QA/blob/main/assets/header.png)
 
-My CV
+## My CV
+[Link to my CV]()
 
-## I'm a Junior QA Specialist
+## I'm a Junior QA Engineer
 
 ### Languages and Tools
-![SQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=mysql)
+![Yandex.Tracker](https://img.shields.io/badge/-ЯндексТрекер-000000??style=for-the-badge&?logo)
 ![Postman](https://img.shields.io/badge/-Postman-000000??style=for-the-badge&logo=Postman)
+![SQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=postgresql)
+![DevTools](https://img.shields.io/badge/-DevTools-000000??style=for-the-badge&logo=googlechrome)
+
+### Testing Documentaion
+
+- [Checklists]()
+- [Test-Cases]()
+- [Bug-Reports](https://tracker.yandex.ru/dashboard/8356)
+- [SQL Queries]()
+- [Postman Collection]()
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=telegram)](https://t.me/AlexxS-qa)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000000??style=for-the-badge&logo=whatsapp)](https://wa.me/89250393563)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexS-QA&show_icons=true&theme=merko)
+![AlexS-QA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexS-QA&show_icons=true&theme=merko)
