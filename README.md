@@ -11,16 +11,16 @@
 ![SQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=postgresql)
 ![DevTools](https://img.shields.io/badge/-DevTools-000000??style=for-the-badge&logo=googlechrome)
 
-### Testing Documentaion
+## Testing Documentaion
 
-- [Checklists]()
-- [Test-Cases]()
-- [Bug-Reports](https://tracker.yandex.ru/dashboard/8356)
-- [SQL Queries]()
+- [Checklists](https://docs.google.com/spreadsheets/d/1xMRvQF985ZvUsZv4oc-L1TpKFQAmEHugvp9nNbt6lW4/edit#gid=1540435533)
+- [Test-Cases](https://docs.google.com/spreadsheets/d/12EYpS4KANehIc0AfsJcWFLMJryB49dh8HvqElF1nvD8/edit#gid=1169740291)
+- [Bug-Reports](https://tracker.yandex.ru/dashboard/8356#31339)
 - [Postman Collection]()
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=telegram)](https://t.me/AlexxS-qa)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-000000??style=for-the-badge&logo=whatsapp)](https://wa.me/89250393563)
+
 
 ![AlexS-QA's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexS-QA&show_icons=true&theme=merko)
