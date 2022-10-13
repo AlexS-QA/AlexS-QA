@@ -5,7 +5,7 @@
 
 ## I'm a Junior QA Engineer
 
-### Languages and Tools
+## Languages and Tools
 ![Yandex.Tracker](https://img.shields.io/badge/-ЯндексТрекер-000000??style=for-the-badge&?logo)
 ![Postman](https://img.shields.io/badge/-Postman-000000??style=for-the-badge&logo=Postman)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=postgresql)
