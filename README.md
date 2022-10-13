@@ -13,7 +13,7 @@
 
 ## Testing Documentation
 
-- [Checklists](https://docs.google.com/spreadsheets/d/1xMRvQF985ZvUsZv4oc-L1TpKFQAmEHugvp9nNbt6lW4/edit#gid=1540435533)
+- [Checklists](https://github.com/AlexS-QA/Check-lists)
 - [Test-Cases](https://github.com/AlexS-QA/Test-cases)
 - [Bug-Reports](https://tracker.yandex.ru/dashboard/8356#31339)
 - [Postman Collection]()
