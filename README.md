@@ -16,7 +16,7 @@
 - [Checklists](https://github.com/AlexS-QA/Check-lists)
 - [Test-Cases](https://github.com/AlexS-QA/Test-cases)
 - [Bug-Reports](https://tracker.yandex.ru/dashboard/8356#31339)
-- [Postman Collection]()
+- [![Postman Collection](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/6ffdca3cf79a1641d640?action=collection%2Fimport)
 
 ### Contact me
 [![Telegram](https://img.shields.io/badge/-Telegram-000000??style=for-the-badge&logo=telegram)](https://t.me/AlexxS-qa)
