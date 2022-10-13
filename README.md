@@ -1,9 +1,10 @@
 ![Header](https://github.com/AlexS-QA/AlexS-QA/blob/main/assets/header.png)
 
-## My CV
-[Link to my CV]()
 
 ## I'm a Junior QA Engineer
+
+## My CV
+[Link to my CV]()
 
 ### Languages and Tools
 ![Yandex.Tracker](https://img.shields.io/badge/-ЯндексТрекер-000000??style=for-the-badge&?logo)
