@@ -11,10 +11,10 @@
 ![SQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=postgresql)
 ![DevTools](https://img.shields.io/badge/-DevTools-000000??style=for-the-badge&logo=googlechrome)
 
-## Testing Documentaion
+## Testing Documentation
 
 - [Checklists](https://docs.google.com/spreadsheets/d/1xMRvQF985ZvUsZv4oc-L1TpKFQAmEHugvp9nNbt6lW4/edit#gid=1540435533)
-- [Test-Cases](https://docs.google.com/spreadsheets/d/12EYpS4KANehIc0AfsJcWFLMJryB49dh8HvqElF1nvD8/edit#gid=1169740291)
+- [Test-Cases](https://github.com/AlexS-QA/Test-cases)
 - [Bug-Reports](https://tracker.yandex.ru/dashboard/8356#31339)
 - [Postman Collection]()
 
