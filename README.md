@@ -5,13 +5,13 @@
 
 ## I'm a Junior QA Engineer
 
-## Languages and Tools
+### Languages and Tools
 ![Yandex.Tracker](https://img.shields.io/badge/-ЯндексТрекер-000000??style=for-the-badge&?logo)
 ![Postman](https://img.shields.io/badge/-Postman-000000??style=for-the-badge&logo=Postman)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=postgresql)
 ![DevTools](https://img.shields.io/badge/-DevTools-000000??style=for-the-badge&logo=googlechrome)
 
-## Testing Documentation
+### Testing Documentation
 
 - [Checklists](https://github.com/AlexS-QA/Check-lists)
 - [Test-Cases](https://github.com/AlexS-QA/Test-cases)
