@@ -4,7 +4,7 @@
 ## I'm a Junior QA Engineer
 
 ## My CV
-[Link to my CV]()
+[Link to my CV](https://disk.yandex.ru/i/ecjRanG3pKm2Ig)
 
 ### Languages and Tools
 ![Yandex.Tracker](https://img.shields.io/badge/-ЯндексТрекер-000000??style=for-the-badge&?logo)
