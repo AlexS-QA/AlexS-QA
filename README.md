@@ -12,7 +12,7 @@
 ![SQL](https://img.shields.io/badge/-PostgreSQL-000000??style=for-the-badge&logo=postgresql)
 ![DevTools](https://img.shields.io/badge/-DevTools-000000??style=for-the-badge&logo=googlechrome)
 
-### Testing Documentation
+### Testing Documentation (Examples)
 
 - [Checklists](https://github.com/AlexS-QA/Check-lists)
 - [Test-Cases](https://github.com/AlexS-QA/Test-cases)
